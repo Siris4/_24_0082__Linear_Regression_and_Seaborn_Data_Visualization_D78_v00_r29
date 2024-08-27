@@ -1,0 +1,68 @@
+
+00 - Starting file
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r01 - Determines the rows and cols in the dataset.
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r02 - Determines if there are any NaN values.
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r03 - Determines if there any duplicate rows.
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r04 - Gets the data types of the columns.
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r05 - My program cleans and converts currency columns in a CSV file to a float format for budget and gross revenue data.
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r06 - Converts the Release_Date column to a Pandas Datetime type. 
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r07 - Converts float values to integer values, once cleaning process is completed.
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r08 - Determines the average production budget of the films in the dataset.
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r09 - Determines the average worldwide gross revenue of the films.
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r10 - My program cleans and converts currency columns to integers, then calculates the minimum worldwide and domestic gross revenue
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r11 - My program cleans and converts currency columns to integers, then finds the highest production budget and worldwide gross revenue.
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r12 - My program cleans currency data, identifies the lowest and highest budget films, and retrieves their worldwide gross revenue
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r13 - My program cleans currency data and counts the number of films that grossed $0 domestically
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r14 - The top 5 highest budget films that grossed nothing domestically
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r15 - My program cleans currency data and counts the number of films that grossed $0 worldwide.
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r16 - My program cleans currency data, calculates international gross revenue, and identifies high-budget films with $0 international revenue
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r17 - My program cleans currency data and identifies international releases with zero domestic gross but non-zero worldwide gross
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r18 - My program converts release dates to datetime, filters films not released by a specified cutoff date, and lists them
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r19 - My program converts release dates to datetime, filters films not released by a specified cutoff date, and counts them
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r20 - My program converts release dates to datetime, filters out unreleased films by a cutoff date, and creates a clean dataset.
+
+Yes21:
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r21 - My program cleans and filters movie data, then calculates the percentage of films that did not break even at the box office
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r22 - My program cleans and filters movie data by release date, then creates and saves a scatter plot of production budget versus worldwide gross using Seaborn
+
+Yes23:
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r23 - My program cleans and filters movie data by release date, then creates and customizes a scatter plot of production budget versus worldwide gross using Seaborn, and saves the plot as an image.
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r24 - My program cleans and filters movie data by release date, then creates and customizes a bubble plot of production budget versus worldwide gross using Seaborn, and saves the plot as an image.
+
+Yes 25:
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r25 - My program cleans and filters movie data by release date, then creates a styled bubble plot of production budget versus worldwide gross using Seaborn, and saves the plot as an image
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r26 -
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r27 -
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r28 - My program cleans and filters movie data, calculates the decade for each film, separates old and new films, and creates a regression plot for old films based on production budget versus worldwide gross.
+
+YES 29:
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r29 - My program cleans and filters movie data, calculates the decade for each film, separates old and new films, and creates a styled regression plot for new films based on production budget versus worldwide gross.
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r30 -
+
+_24_0082__Linear_Regression_and_Seaborn_Data_Visualization_D78_v00_r31 -
